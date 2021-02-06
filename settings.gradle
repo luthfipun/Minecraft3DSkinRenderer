@@ -1,0 +1,3 @@
+include ':minecraft3DSkinRender'
+include ':app'
+rootProject.name = "Minecraft3DSkin"
